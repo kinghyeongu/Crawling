@@ -52,7 +52,7 @@ for page in range(1, int(last_page)+1):
                 soup = BeautifulSoup(img_link.text) 
                 img_link = "http:"+ soup.select_one('#repImageContainer > img')['src'] #상품 세부 이미지
 
-                #print(item_name, price, link, img_link, "\n\n")
+                print(item_name, price, link, img_link, "\n\n")
                 
             except:
                 error_cnt += 1
