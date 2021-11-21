@@ -1,10 +1,8 @@
 import requests
-import pandas as pd
 from bs4 import BeautifulSoup
 from urllib import parse
 from datetime import datetime
 import time
-from bs4 import BeautifulSoup
 
 base_url = 'https://www.coupang.com/np/search?component=&q={}&channel=user'
 keyword = input("검색할 키워드 : ")
