@@ -1,5 +1,5 @@
 # PersonalColor 프로젝트를 위한 정보 Crawling.
-<h3>Coupang, Musinsa 사이트에 필요한 정보를 Crawling 하는 python 프로그램입니다.</h3>
+- Coupang, Musinsa 사이트에 필요한 정보를 Crawling 하는 python 프로그램입니다
 - coupang : bs4, requests, selenium<br>
 - musinsa : bs4, requests, parse
 
