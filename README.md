@@ -5,18 +5,7 @@
 <br>
 
 ## 실행 방법
-# coupang
-1. coupang
-
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
+coupang :
 
 
 
