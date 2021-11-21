@@ -1,6 +1,6 @@
 # Coupang, Musinsa 사이트에 필요한 정보를 Crawling 하는 python 프로그램입니다.
->coupang : bs4, requests, selenium
->musinsa : bs4, requests, parse
+coupang : bs4, requests, selenium
+musinsa : bs4, requests, parse
 
 <br>
 
