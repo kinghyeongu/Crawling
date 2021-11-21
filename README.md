@@ -8,6 +8,12 @@ musinsa : bs4, requests, parse
 <h3>1. coupang</h3><br>
 
 ![](/imgs/cp1.png)
+쿠팡 검색창에 필요한 키워드를 입력한다.<br>
+
+![](/imgs/cp3.png)
+검색한 상품들의 상품명, 가격, 해당링크, 상품이미지까지 크롤링 해온다.
+
+
 
 
 
