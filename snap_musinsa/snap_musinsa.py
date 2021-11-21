@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-import urllib.request
 from selenium import webdriver
 import requests
 import re
