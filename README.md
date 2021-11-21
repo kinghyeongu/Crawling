@@ -14,7 +14,7 @@
 ![](/imgs/coup3.png)
 - 검색한 상품들의 상품명, 가격, 해당링크, 상품이미지까지 크롤링 해온다.
 
-<br><br>
+<br><hr><br>
 <h3>2. musinsa</h3>
 
 ![](/imgs/mu1.png)
