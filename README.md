@@ -1,5 +1,6 @@
-# Coupang, Musinsa 사이트에 필요한 정보를 Crawling 하는 python 프로그램입니다.
->coupang : bs4, requests, selenium<br>
+# PersonalColor 프로젝트를 위한 정보 Crawling.
+>Coupang, Musinsa 사이트에 필요한 정보를 Crawling 하는 python 프로그램입니다.<br>
+coupang : bs4, requests, selenium<br>
 musinsa : bs4, requests, parse
 
 <br>
@@ -14,7 +15,7 @@ musinsa : bs4, requests, parse
 검색한 상품들의 상품명, 가격, 해당링크, 상품이미지까지 크롤링 해온다.
 
 <br><br>
-<h3>1. coupang</h3>
+<h3>2. musinsa</h3>
 
 ![](/imgs/mu1.png)
 무신사 브랜드 스냅 코디 키워드를 입력한 사이트의 정보를 셀레니움을 이용해 가져온다.<br>
