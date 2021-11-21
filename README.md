@@ -5,7 +5,8 @@ musinsa : bs4, requests, parse
 <br>
 
 ## 실행 방법
-coupang :
+1. coupang
+![](/img/cp1.png)
 
 
 
