@@ -23,7 +23,7 @@ musinsa : bs4, requests, parse
 ![](/imgs/mu3.png)
 ![](/imgs/mu4.png)
 ![](/imgs/mu5.png)
-또한 코디 마다 인물의 이름, 지역, 이미지, 상세 코디 이름, 이미지를 가져온다.<br><br><br>
+또한 코디 마다 인물의 이름, 지역, 이미지, 상세 코디 이름, 이미지를 가져오며, 다음 코디로 넘어간다.<br><br><br>
 
 
 
