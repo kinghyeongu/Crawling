@@ -7,7 +7,7 @@ musinsa : bs4, requests, parse
 ## 실행 방법
 <h3>1. coupang</h3><br>
 
-![](/imgs/cp1.png)
+![](/imgs/cp2.png)
 쿠팡 검색창에 필요한 키워드를 입력한다.<br>
 
 ![](/imgs/cp3.png)
