@@ -6,7 +6,7 @@ musinsa : bs4, requests, parse
 
 ## 실행 방법
 1. coupang
-![](/img/cp1.png)
+![](/imgs/cp1.png)
 
 
 
