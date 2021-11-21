@@ -1,3 +1,23 @@
+# Coupang, Musinsa 사이트에 필요한 정보를 Crawling 하는 python 프로그램입니다.
+>coupang : bs4, requests, selenium<br>
+musinsa : bs4, requests, parse
+
+<br>
+
+## 실행 방법
+<h3>1. coupang</h3><br>
+
+![](/imgs/cp2.png)
+쿠팡 검색창에 필요한 키워드를 입력한다.<br>
+
+![](/imgs/cp3.png)
+검색한 상품들의 상품명, 가격, 해당링크, 상품이미지까지 크롤링 해온다.
+
+
+
+
+
+
 
 ## License
 
