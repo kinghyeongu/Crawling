@@ -1,3 +1,26 @@
+# Coupang, Musinsa 사이트에 필요한 정보를 Crawling 하는 python 프로그램입니다.
+>coupang : bs4, requests, selenium
+>musinsa : bs4, requests, parse
+
+<br>
+
+## 실행 방법
+# coupang
+1. coupang
+
+```sh
+npm install my-crazy-module --save
+```
+
+윈도우:
+
+```sh
+edit autoexec.bat
+```
+
+
+
+
 
 ## License
 
