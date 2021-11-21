@@ -12,6 +12,7 @@ headers = {
 driver = webdriver.Chrome()
 PageNum = 1
 while PageNum <= 1: # 페이지 넘버를 사용해 자동적으로 페이지가 이동되게 while문 사용
+    #ex_snap_pink
     driver.get(f'https://magazine.musinsa.com/index.php?m=street&style=001&ordw=hit&stx=%ED%95%91%ED%81%AC&_y=2021&_mon=&p={PageNum}#listStart')
     ImgNum = 0
     while ImgNum < 60:
