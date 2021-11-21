@@ -5,7 +5,7 @@ musinsa : bs4, requests, parse
 
 <br>
 
-## Crawling 결과
+## Crawling result
 <h3>1. coupang</h3>
 
 ![](/imgs/coup1.png)
