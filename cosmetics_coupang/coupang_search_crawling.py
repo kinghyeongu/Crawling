@@ -5,7 +5,6 @@ from urllib import parse
 from datetime import datetime
 import time
 from bs4 import BeautifulSoup
-import urllib.request
 
 base_url = 'https://www.coupang.com/np/search?component=&q={}&channel=user'
 keyword = input("검색할 키워드 : ")
@@ -52,7 +51,7 @@ for page in range(1, int(last_page)+1):
                 soup = BeautifulSoup(img_link.text) 
                 img_link = "http:"+ soup.select_one('#repImageContainer > img')['src'] #상품 세부 이미지
 
-                #print(item_name, price, link, img_link, "\n\n")
+                print(item_name, price, link, img_link, "\n\n")
                 
             except:
                 error_cnt += 1
